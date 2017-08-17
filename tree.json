@@ -1,0 +1,105 @@
+{
+    "name": "Network",
+    "children": [
+        {
+            "name": "Server 1",
+            "children": [
+                {
+                    "name": "Container 1",
+                    "children": [
+                        {
+                            "name": "Processor 1-1"
+                        },
+                        {
+                            "name": "Processor 1-2"
+                        },
+                        {
+                            "name": "Processor 1-3"
+                        },
+                        {
+                            "name": "Processor 1-4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Container 2",
+                    "children": [
+                        {
+                            "name": "Processor 1"
+                        },
+                        {
+                            "name": "Processor 2"
+                        },
+                        {
+                            "name": "Processor 3"
+                        },
+                        {
+                            "name": "Processor 4"
+                        },
+                        {
+                            "name": "Processor 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Container 3",
+                    "children": [
+                        {
+                            "name": "Processor 1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Server 2",
+            "children": [
+                {
+                    "name": "Container 1",
+                    "children": [
+                        {
+                            "name": "Processor 1-1"
+                        },
+                        {
+                            "name": "Processor 1-2"
+                        },
+                        {
+                            "name": "Processor 1-3"
+                        },
+                        {
+                            "name": "Processor 1-4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Container 2",
+                    "children": [
+                        {
+                            "name": "Processor 1"
+                        },
+                        {
+                            "name": "Processor 2"
+                        },
+                        {
+                            "name": "Processor 3"
+                        },
+                        {
+                            "name": "Processor 4"
+                        },
+                        {
+                            "name": "Processor 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Container 3",
+                    "children": [
+                        {
+                            "name": "Processor 1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

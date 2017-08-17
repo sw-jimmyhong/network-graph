@@ -1,0 +1,109 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "A",
+            "group": 1,
+            "children": [{
+                "id": 1,
+                "name": "a",
+                "size": 3
+            },{
+                "id": 2,
+                "name": "b",
+                "size": 4
+            },{
+                "id": 3,
+                "name": "c",
+                "size": 3
+            }]
+        },
+        {
+            "id": 2,
+            "name": "B",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "name": "C",
+            "group": 2
+        },
+        {
+            "id": 4,
+            "name": "D",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "name": "E",
+            "group": 3
+        },
+        {
+            "id": 6,
+            "name": "F",
+            "group": 2
+        },
+        {
+            "id": 7,
+            "name": "G",
+            "group": 1
+        },
+        {
+            "id": 8,
+            "name": "H",
+            "group": 3
+        },
+        {
+            "id": 9,
+            "name": "I",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "name": "J",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 9
+        }
+    ]
+}
